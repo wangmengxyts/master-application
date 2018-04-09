@@ -1,0 +1,32 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(246, 247, 249, 1);
+  background-image:none;
+  position:relative;
+  left:-151px;
+  width:422px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u905 {
+  border-width:0px;
+  position:absolute;
+  left:151px;
+  top:75px;
+  width:418px;
+  height:349px;
+}
+#u905_input {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:418px;
+  height:349px;
+  overflow:auto;
+}
